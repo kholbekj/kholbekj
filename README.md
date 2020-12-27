@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://i.ibb.co/Ct348Mr/gen.png)
 
 <!--
 **kholbekj/kholbekj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
